@@ -1,2 +1,2 @@
 # Kubic-Runner
-Isometric Endless Runner Game.
+Isometric Endless 2D Runner Game.
