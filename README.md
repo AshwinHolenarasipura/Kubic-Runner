@@ -3,7 +3,8 @@ Isometric Endless 2D Runner Game.
 
 SCREENSOTS :
 
-![Screenshot (542)](https://user-images.githubusercontent.com/79126310/108960469-fb1e2f80-769b-11eb-9625-302c51e74490.png)                         ![Screenshot (544)](https://user-images.githubusercontent.com/79126310/108960511-0b360f00-769c-11eb-8008-9263e54602f1.png)
+![Screenshot (550)](https://user-images.githubusercontent.com/79126310/109038514-d05ec600-76f1-11eb-9675-8dfc6d20073d.png)
+                       ![Screenshot (544)](https://user-images.githubusercontent.com/79126310/108960511-0b360f00-769c-11eb-8008-9263e54602f1.png)
 
 ![Screenshot (543)](https://user-images.githubusercontent.com/79126310/108960576-2143cf80-769c-11eb-8b90-8c00c091c40b.png)                          ![Screenshot (545)](https://user-images.githubusercontent.com/79126310/108960616-328cdc00-769c-11eb-812a-587e4eb481bb.png)
 
